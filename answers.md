@@ -8,8 +8,11 @@ Don't forget to read the **References**.
 
 * Sign up for Datadog, get the agent reporting metrics from your local machine.
 * Bonus question: what is the agent?
-* Submit an event via the API.
+The agent is 
+* Submit an event via the API. 
+(Please see level1.rb).
 * Get an event to appear in your email inbox (the email address you signed up for the account with)
+ (Please see level1.rb).
 
 ### Level 2
 
